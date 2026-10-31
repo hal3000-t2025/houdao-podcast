@@ -1248,5 +1248,30 @@
       <guid isPermaLink="false">houdao-storytelling-s2-18</guid>
       <pubDate>Thu, 29 Oct 2026 11:52:00 +0800</pubDate>
     </item>
+    <item>
+      <title>第50期 | 如果宇宙只是一行代码，上帝甚至懒得写完它：康威生命游戏全史</title>
+      <itunes:title>如果宇宙只是一行代码，上帝甚至懒得写完它：康威生命游戏全史</itunes:title>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>猴导</itunes:author>
+      <itunes:summary>【本期看点】
+四条极简规则，一张无限网格，为何能让死寂的黑白方格演化出自繁殖飞船与宇宙？硬核拆解康威生命游戏、图灵完备与计算不可约性。关注猴导，硬核拆解宇宙脑洞与认知思维。
+【核心时间轴】
+00:00 一、 序幕：死神的黑色幽默与最后一步棋
+01:31 二、 第一幕：剑桥休息室里的“懒惰造物主”
+02:59 三、 第二幕：四条铁律与“滑翔机”的越狱
+05:52 四、 第三幕：高维暴走——在方格纸上手搓一台电脑
+08:19 五、 第四幕：自由意志的幻觉与“不可计算”的命运
+10:51 六、 尾声：一个讨厌自己作品的造物主
+【关键词/话题】
+#硬核科普 #康威生命游戏 #元胞自动机 #图灵完备 #计算不可约 #涌现</itunes:summary>
+      <itunes:duration>11:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/hal3000-t2025/houdao-podcast/main/cover.jpg"/>
+      <description>【本期看点】&lt;br/&gt;四条极简规则，一张无限网格，为何能让死寂的黑白方格演化出自繁殖飞船与宇宙？硬核拆解康威生命游戏、图灵完备与计算不可约性。关注猴导，硬核拆解宇宙脑洞与认知思维。&lt;br/&gt;&lt;br/&gt;【核心时间轴】&lt;br/&gt;00:00 一、 序幕：死神的黑色幽默与最后一步棋&lt;br/&gt;01:31 二、 第一幕：剑桥休息室里的“懒惰造物主”&lt;br/&gt;02:59 三、 第二幕：四条铁律与“滑翔机”的越狱&lt;br/&gt;05:52 四、 第三幕：高维暴走——在方格纸上手搓一台电脑&lt;br/&gt;08:19 五、 第四幕：自由意志的幻觉与“不可计算”的命运&lt;br/&gt;10:51 六、 尾声：一个讨厌自己作品的造物主&lt;br/&gt;&lt;br/&gt;【关键词/话题】&lt;br/&gt;#硬核科普 #康威生命游戏 #元胞自动机 #图灵完备 #计算不可约 #涌现</description>
+      <enclosure url="https://raw.githubusercontent.com/hal3000-t2025/houdao-podcast/main/audio/houdao_ep50.mp3" length="16740435" type="audio/mpeg"/>
+      <guid isPermaLink="false">houdao-storytelling-sn-11</guid>
+      <pubDate>Sat, 31 Oct 2026 22:51:00 +0800</pubDate>
+    </item>
   </channel>
 </rss>
