@@ -1273,5 +1273,29 @@
       <guid isPermaLink="false">houdao-storytelling-sn-11</guid>
       <pubDate>Sat, 31 Oct 2026 22:51:00 +0800</pubDate>
     </item>
+    <item>
+      <title>第51期 | 为什么掉在凳子底下的东西再也找不到？从爱因斯坦的房间到AI世界模型的有损压缩</title>
+      <itunes:title>为什么掉在凳子底下的东西再也找不到？从爱因斯坦的房间到AI世界模型的有损压缩</itunes:title>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>猴导</itunes:author>
+      <itunes:summary>【本期看点】
+从每个人都经历过的掉凳子底下再也找不到小物件的微小生活缝隙切入，硬核串联爱因斯坦与玻尔的量子实在论之争、游戏引擎视锥剔除与遮挡剔除、以及前沿生成式AI世界模型中的有损压缩与场景漂移，最终升华至现实同一性假说与人类的宇宙站位。关注猴导，硬核拆解宇宙脑洞与认知思维。
+【核心时间轴】
+00:00 一、 序幕：掉进凳子底下的橡皮擦
+02:24 二、 第一幕：爱因斯坦的困惑与关上门的房间
+05:09 三、 第二幕：游戏引擎的偷懒哲学与视锥剔除
+07:05 四、 第三幕：世界模型大风暴——维持同一个世界比生成它更难
+10:01 五、 尾声：现实同一性假说与人类的终极站位
+【关键词/话题】
+#硬核科普 #世界模型 #爱因斯坦 #量子力学 #有损压缩 #哲学思考</itunes:summary>
+      <itunes:duration>12:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/hal3000-t2025/houdao-podcast/main/cover.jpg"/>
+      <description>【本期看点】&lt;br/&gt;从每个人都经历过的掉凳子底下再也找不到小物件的微小生活缝隙切入，硬核串联爱因斯坦与玻尔的量子实在论之争、游戏引擎视锥剔除与遮挡剔除、以及前沿生成式AI世界模型中的有损压缩与场景漂移，最终升华至现实同一性假说与人类的宇宙站位。关注猴导，硬核拆解宇宙脑洞与认知思维。&lt;br/&gt;&lt;br/&gt;【核心时间轴】&lt;br/&gt;00:00 一、 序幕：掉进凳子底下的橡皮擦&lt;br/&gt;02:24 二、 第一幕：爱因斯坦的困惑与关上门的房间&lt;br/&gt;05:09 三、 第二幕：游戏引擎的偷懒哲学与视锥剔除&lt;br/&gt;07:05 四、 第三幕：世界模型大风暴——维持同一个世界比生成它更难&lt;br/&gt;10:01 五、 尾声：现实同一性假说与人类的终极站位&lt;br/&gt;&lt;br/&gt;【关键词/话题】&lt;br/&gt;#硬核科普 #世界模型 #爱因斯坦 #量子力学 #有损压缩 #哲学思考</description>
+      <enclosure url="https://raw.githubusercontent.com/hal3000-t2025/houdao-podcast/main/audio/houdao_ep51.mp3" length="17561235" type="audio/mpeg"/>
+      <guid isPermaLink="false">houdao-storytelling-sn-13</guid>
+      <pubDate>Tue, 03 Nov 2026 04:52:00 +0800</pubDate>
+    </item>
   </channel>
 </rss>
