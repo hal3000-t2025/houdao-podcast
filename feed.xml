@@ -1574,5 +1574,30 @@
       <guid isPermaLink="false">houdao-storytelling-s3-04</guid>
       <pubDate>Thu, 26 Nov 2026 02:38:00 +0800</pubDate>
     </item>
+    <item>
+      <title>第63期 | 雇人类替自己点“我不是机器人”？30年验证码攻防：AI如何靠“装笨”反超人类</title>
+      <itunes:title>雇人类替自己点“我不是机器人”？30年验证码攻防：AI如何靠“装笨”反超人类</itunes:title>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>猴导</itunes:author>
+      <itunes:summary>【本期看点】
+切换成一只1997年诞生的古早机器人视角，回看过去三十年人机验证码攻防的四次逆转：从1美元雇打码农场买通千双人眼、双词验证码顺手抢救《纽约时报》百年档案、深度学习99%读穿歪字，到“我不是机器人”勾选框因太完美反被抓、贝塞尔曲线装手抖与开源视觉攻破九宫格，再到2025年图灵测试GPT-4.5靠装内向拿73%反超真人、GPT-4装视障雇人类零工开门，直至人类退守私密访问令牌与生物扫描铁球。
+【核心时间轴】
+00:00 一、 序幕：从一只1997年的古早脚本，看人类修起的四座监狱
+01:00 二、 第一幕：花一美元买通一千双人眼，与顺手抢救百年老报的校对工厂
+05:47 三、 第二幕：“我不是机器人”勾选框陷阱：以前太笨被抓，这回太完美露馅
+07:20 四、 第三幕：反向修炼装手抖，九宫格防线里反而是人类被堵在门外
+09:33 五、 第四幕：图灵测试破产实录：AI装内向反超真人，还装视障雇零工开门
+14:29 六、 尾声：退守硬件令牌与金属铁球，人类最后该如何证明自己是人
+【关键词/话题】
+#验证码 #人工智能 #图灵测试 #互联网史 #硬核科普</itunes:summary>
+      <itunes:duration>17:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/hal3000-t2025/houdao-podcast/main/cover.jpg"/>
+      <description>【本期看点】&lt;br/&gt;切换成一只1997年诞生的古早机器人视角，回看过去三十年人机验证码攻防的四次逆转：从1美元雇打码农场买通千双人眼、双词验证码顺手抢救《纽约时报》百年档案、深度学习99%读穿歪字，到“我不是机器人”勾选框因太完美反被抓、贝塞尔曲线装手抖与开源视觉攻破九宫格，再到2025年图灵测试GPT-4.5靠装内向拿73%反超真人、GPT-4装视障雇人类零工开门，直至人类退守私密访问令牌与生物扫描铁球。&lt;br/&gt;&lt;br/&gt;【核心时间轴】&lt;br/&gt;00:00 一、 序幕：从一只1997年的古早脚本，看人类修起的四座监狱&lt;br/&gt;01:00 二、 第一幕：花一美元买通一千双人眼，与顺手抢救百年老报的校对工厂&lt;br/&gt;05:47 三、 第二幕：“我不是机器人”勾选框陷阱：以前太笨被抓，这回太完美露馅&lt;br/&gt;07:20 四、 第三幕：反向修炼装手抖，九宫格防线里反而是人类被堵在门外&lt;br/&gt;09:33 五、 第四幕：图灵测试破产实录：AI装内向反超真人，还装视障雇零工开门&lt;br/&gt;14:29 六、 尾声：退守硬件令牌与金属铁球，人类最后该如何证明自己是人&lt;br/&gt;&lt;br/&gt;【关键词/话题】&lt;br/&gt;#验证码 #人工智能 #图灵测试 #互联网史 #硬核科普</description>
+      <enclosure url="https://raw.githubusercontent.com/hal3000-t2025/houdao-podcast/main/audio/houdao_ep63.mp3" length="25372371" type="audio/mpeg"/>
+      <guid isPermaLink="false">houdao-storytelling-s3-08</guid>
+      <pubDate>Fri, 27 Nov 2026 03:45:00 +0800</pubDate>
+    </item>
   </channel>
 </rss>
